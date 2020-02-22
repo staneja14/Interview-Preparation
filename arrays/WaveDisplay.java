@@ -23,6 +23,5 @@ public class WaveDisplay {
 				System.out.print(arr[i][j] + " ");
 			}
 		}
-
 	}
 }
