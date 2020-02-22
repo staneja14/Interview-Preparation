@@ -1,5 +1,4 @@
 package arrays;
-
 import java.util.HashSet;
 
 public class SingleNumber {
