@@ -24,6 +24,7 @@ public class MaxInArray {
 			}
 		}
 		return max;
+
 	}
 
 	public static void main(String[] args) {
