@@ -15,7 +15,7 @@ public class MatrixMultiplication {
 		if (c1 != r2) {
 			System.out.println("Can't be multiplied");
 		}
-
+		//Creating an array for product
 		int[][] product = new int[r1][c2];
 		for (int i = 0; i < product.length; i++) {
 			for (int j = 0; j < product[0].length; j++) {
