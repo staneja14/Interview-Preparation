@@ -16,5 +16,4 @@ public class DisplayReverse {
 		int[] arr = {14,26,8,1992,1997};
 		displayReverse(arr, 0);
 	}
-
 }
