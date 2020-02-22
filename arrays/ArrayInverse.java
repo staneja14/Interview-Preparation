@@ -17,6 +17,7 @@ public class ArrayInverse {
 	 * @return Inverse Array
 	 */
 	public static int[] inverse(int[] arr) {
+		// creating an array for inverse
 		int[] inv = new int[arr.length];
 		for (int i = 0; i < arr.length; i++) {
 			int val = arr[i];
