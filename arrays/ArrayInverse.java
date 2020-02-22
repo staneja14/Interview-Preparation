@@ -32,4 +32,5 @@ public class ArrayInverse {
 			System.out.print(val + " ");
 		}
 	}
+	
 }
