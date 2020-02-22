@@ -7,10 +7,12 @@ public class Kadanes {
 
 		int ci = 0;
 		int cj = 0;
+		//Current Sum
 		int cs = arr[0];
 
 		int bi = 0;
 		int bj = 0;
+		//Best Sum
 		int bs = arr[0];
 
 		for (int i = 1; i < arr.length; i++) {
