@@ -7,7 +7,6 @@ public class TwodArray {
 	public static int[][] takeInput(int row, int column) {
 
 		int[][] arr = new int[row][column];
-
 		Scanner s = new Scanner(System.in);
 		for (int i = 0; i < row; i++) {
 			for (int j = 0; j < column; j++) {
