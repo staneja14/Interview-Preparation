@@ -24,6 +24,7 @@ public class ExitPoint {
 					System.out.println(i + " " + j);
 					break;
 				}
+				
 			} else if (dir == 2) {
 				j--;
 				if (j == -1) {
